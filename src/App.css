@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.todo-item {
+  width: 300px;
+  height: 50px;
+  border: 1px solid lightblue;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
